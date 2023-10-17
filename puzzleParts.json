@@ -1,0 +1,84 @@
+{
+    "00000000": {
+        "rotation": "T",
+        "pins": [0, 0, 0, 0, 0, 0, 0, 0],
+        "canEdge": true
+    },
+    "00010011": {
+        "rotation": "T",
+        "pins": [0, 0, 0, 1, 0, 0, 1, 1],
+        "canEdge": false
+    },
+    "00101001": {
+        "rotation": "T",
+        "pins": [0, 0, 1, 0, 1, 0, 0, 1],
+        "canEdge": true
+    },
+    "01000100": {
+        "rotation": "T",
+        "pins": [0, 1, 0, 0, 0, 1, 0, 0],
+        "canEdge": false
+    },
+    "01010111": {
+        "rotation": "T",
+        "pins": [0, 1, 0, 1, 0, 1, 1, 1],
+        "canEdge": false
+    },
+    "01011110": {
+        "rotation": "T",
+        "pins": [0, 1, 0, 1, 1, 1, 1, 0],
+        "canEdge": false
+    },
+    "10000000": {
+        "rotation": "T",
+        "pins": [1, 0, 0, 0, 0, 0, 0, 0],
+        "canEdge": true
+    },
+    "10000001": {
+        "rotation": "T",
+        "pins": [0, 0, 0, 1, 1, 0, 0, 0],
+        "canEdge": false
+    },
+    "10101010": {
+        "rotation": "T",
+        "pins": [1, 0, 1, 0, 1, 0, 1, 0],
+        "canEdge": true
+    },
+    "10101100": {
+        "rotation": "T",
+        "pins": [1, 0, 1, 0, 1, 1, 0, 0],
+        "canEdge": true
+    },
+    "10110100": {
+        "rotation": "T",
+        "pins": [1, 0, 1, 1, 0, 1, 0, 0],
+        "canEdge": true
+    },
+    "11001110": {
+        "rotation": "T",
+        "pins": [1, 1, 0, 0, 1, 1, 0, 1],
+        "canEdge": false
+    },
+    "11010111": {
+        "rotation": "T",
+        "pins": [1, 1, 0, 1, 0, 1, 1, 1],
+        "canEdge": false
+    },
+    "11110101": {
+        "rotation": "T",
+        "pins": [1, 1, 1, 1, 0, 1, 0, 1],
+        "canEdge": false
+    },
+    "11111101": {
+        "rotation": "T",
+        "pins": [1, 1, 1, 1, 1, 1, 0, 1],
+        "canEdge": false
+    },
+    "11111111": {
+        "rotation": "T",
+        "pins": [1, 1, 1, 1, 1, 1, 1, 1],
+        "canEdge": false
+    }
+
+
+}
